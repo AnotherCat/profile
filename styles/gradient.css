@@ -1,0 +1,8 @@
+.gradient {
+  background: linear-gradient(90deg, #c219ff 0%, #3dc2f2 100%);
+}
+@media (prefers-color-scheme: dark) {
+  .gradient {
+    background: linear-gradient(90deg, #ab28db 0%, #1a9ecd 100%);
+  }
+}
