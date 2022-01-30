@@ -21,7 +21,7 @@ const Home: NextPage = () => {
         <section>
           <Header
             title="AnotherCat"
-            description="Student developer, working in Python and Javascript"
+            description="Working in Python and Javascript"
           />
         </section>
         <TopWave />
